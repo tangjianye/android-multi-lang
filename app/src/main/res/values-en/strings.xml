@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiLang</string>
+    <string name="multi_lang">Hello everyone, I am Chinese!</string>
+    <string name="en_lang">英语</string>
+    <string name="jp_lang">日语</string>
+    <string name="ch_lang">简体中文</string>
+</resources>
